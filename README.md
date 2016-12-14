@@ -1,6 +1,6 @@
-## Your Name
+## Benjamin John Carson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm a globetrotter who's decided to take on the Makers Academy Dev bootcamp. I have a creative and intelligent brain that loves to tackle and (ideally) overcome problems. My dream first job in coding would be as a Full Stack Junior Developer where I can make meaningful contributions to an exciting project.
 
 ## Skills
 
