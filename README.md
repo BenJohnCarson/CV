@@ -4,45 +4,49 @@ I'm a globetrotter who's decided to take on the Makers Academy Dev bootcamp. I h
 
 ## Skills
 
-#### This Skill
+#### Teamwork and Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I've always been a good team player; from group presentations at University to organising and leading a front of house team. I've honed my communication skills by leading various training sessions and through resolving customer complaints face to face.
 
-- Experience
-- Achievements
-- Evidence
+#### Knowledge Acqusition
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I am a very quick learner and I have a keen ability to seperate the fluff from the learning objective. Untill now my coding ability has been self taught, I started to take an interest at University when I bought a book on C++ and since then whenever I have some free time I like to learn something new be it HTML, CSS or Javascript.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2017 to March 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+An intesive 16-week development course designed to turn anyone who's capable of putting the work in into job-ready junior developers.
+
+- Focus on pair-programming
+- Agile
 - Software Craftsmanship
+- OOP, TDD, SOLID, MVC, DDD
 - Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Cisco CCNA Part 1
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+#### BSc in Biomedical Science: University of Surrey
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Milton Keynes Theatre**     
+*Front of House Supervisor* 
+- Developed leadership skills supervising a large team of up to 20 bar staff and 10 ushers in a 1400 seat theatre
+- Led regular training sessions for new starters in a variety of areas
+
+**Peach Pubs** 
+*Floor Team*
+- Helped organise and host partys and events
+
+**Phoenix Datacom Ltd**
+*Work Experience as Assistant Service Engineer*
+- Calibrated a variety of I.T. and CATV network test instruments
+- Gained an appreciation of Cyber Security and associated I.T. network protection tools including intrusion protection/detection systems, anti virus and forensics tools
+
+**Part time positions while travelling**
+*Many roles, from barista to event producer*
+
+## Interests
+
+Yes it's now incredibly clichéd but I love to travel, I've been to Australia, New Zealand, Indonesia to name a few. I do a lot of snowboarding and was a member of the race team at university. I'm pretty musical and dabble in quite a few instruments, even attempting a couple of open mic nights. I also do a lot of running, I find it a great way to relieve stress.
