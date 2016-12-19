@@ -10,7 +10,7 @@ I've always been a good team player; from group presentations at University to o
 
 #### Knowledge Acquisition
 
-I am a very quick learner and I have a keen ability to separate the fluff from the learning objective. Until enrolling at Maker's academy, my coding has been completely self taught and fuelled by a genuine interest. So far I have a basic understanding of a number of web development technologies (HTML, CSS, JavaScript, etc) that I hope to build on during my time at Maker's
+I am a very quick learner and I have a keen ability to separate the fluff from the learning objective. Until enrolling at Maker's academy, my coding has been completely self taught and fuelled by a genuine interest. So far I have a basic understanding of a number of web development technologies (HTML, CSS, JavaScript, etc) that I hope to build on during my time at Maker's.
 ## Education
 
 #### Makers Academy (January 2017 to March 2017)
