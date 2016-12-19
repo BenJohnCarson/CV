@@ -23,19 +23,19 @@ An intensive 16-week development course designed to turn anyone who's capable of
 - OOP, TDD, SOLID, MVC, DDD
 - Ruby, Rails, JavaScript, Node.js, Angular.js
 
-#### Cisco CCNA Part 1
+**Cisco CCNA Part 1**
 *Learnt about different network types and media, the TCP/IP and OSI models and the fundamentals of routing and switching*
 
 #### BSc in Biomedical Science: University of Surrey
 
 ## Experience
 
-**Milton Keynes Theatre**     
+**Milton Keynes Theatre**
 *Front of House Supervisor* 
 - Developed leadership skills supervising a large team of up to 20 bar staff and 10 ushers in a 1400 seat theatre
 - Led regular training sessions for new starters in a variety of areas
 
-**Peach Pubs** 
+**Peach Pubs**
 *Floor Team*
 - Helped organise and host parties and events
 
