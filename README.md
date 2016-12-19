@@ -8,23 +8,23 @@ I'm a globetrotter who's decided to take on the Makers Academy Dev bootcamp. I h
 
 I've always been a good team player; from group presentations at University to organising and leading a front of house team. I've honed my communication skills by leading various training sessions and through resolving customer complaints face to face.
 
-#### Knowledge Acqusition
+#### Knowledge Acquisition
 
-I am a very quick learner and I have a keen ability to seperate the fluff from the learning objective. Untill now my coding ability has been self taught, I started to take an interest at University when I bought a book on C++ and since then whenever I have some free time I like to learn something new be it HTML, CSS or Javascript.
-
+I am a very quick learner and I have a keen ability to separate the fluff from the learning objective. Until enrolling at Maker's academy, my coding has been completely self taught and fuelled by a genuine interest. So far I have a basic understanding of a number of web development technologies (HTML, CSS, JavaScript, etc) that I hope to build on during my time at Maker's
 ## Education
 
 #### Makers Academy (January 2017 to March 2017)
 
-An intesive 16-week development course designed to turn anyone who's capable of putting the work in into job-ready junior developers.
+An intensive 16-week development course designed to turn anyone who's capable of putting the work in into job-ready junior developers.
 
 - Focus on pair-programming
 - Agile
 - Software Craftsmanship
 - OOP, TDD, SOLID, MVC, DDD
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, JavaScript, Node.js, Angular.js
 
 #### Cisco CCNA Part 1
+*Learnt about different network types and media, the TCP/IP and OSI models and the fundamentals of routing and switching*
 
 #### BSc in Biomedical Science: University of Surrey
 
@@ -37,7 +37,7 @@ An intesive 16-week development course designed to turn anyone who's capable of 
 
 **Peach Pubs** 
 *Floor Team*
-- Helped organise and host partys and events
+- Helped organise and host parties and events
 
 **Phoenix Datacom Ltd**
 *Work Experience as Assistant Service Engineer*
@@ -49,4 +49,7 @@ An intesive 16-week development course designed to turn anyone who's capable of 
 
 ## Interests
 
-Yes it's now incredibly clichéd but I love to travel, I've been to Australia, New Zealand, Indonesia to name a few. I do a lot of snowboarding and was a member of the race team at university. I'm pretty musical and dabble in quite a few instruments, even attempting a couple of open mic nights. I also do a lot of running, I find it a great way to relieve stress.
+- Yes it's now incredibly clichéd but I love to travel, I've been to Australia, New Zealand and Indonesia to name a few 
+- I do a lot of snowboarding and was a member of the race team at university 
+- I'm pretty musical and enjoy playing guitar; I've also done the odd open mic night 
+- I run most days and I am currently training for an organised 10k next year
