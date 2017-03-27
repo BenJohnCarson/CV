@@ -10,7 +10,7 @@ I'm a sponge. And I absorb knowledge like a sponge absorbs water. The only diffe
 |Atomic Wars (Atom plugin)         |https://github.com/BenJohnCarson/Atomic-Wars          |Javascript, CoffeeScript, Babel, Jasmine, Node|
 |Yello (Yelp Clone)                |https://github.com/BenJohnCarson/yello                |Rails, Ruby, Javascript, RSpec                |
 |InstaSham (Instagram Clone)       |https://github.com/BenJohnCarson/instagram-challenge  |Rails, Ruby, RSpec                            |
-|Makers BnB (Air BnB Clone)        |https://github.com/BenJohnCarson/makersbnb            |Sinatra, Ruby, Javascript, JQuery, HTML, CSS  |
+|Makers BnB (Air BnB Clone)        |https://github.com/BenJohnCarson/makersbnb            |Sinatra, Ruby, Javascript, JQuery, PostgreSQL  |
 |All Projects Repo                 |https://github.com/BenJohnCarson/Makers-Academy       |                                              |
 
 ## Skills
