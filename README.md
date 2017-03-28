@@ -6,7 +6,7 @@ I'm a sponge. And I absorb knowledge like a sponge absorbs water. The only diffe
 
 |Project                           | Repository                                           | Technologies  and Languages                  |
 |----------------------------------|:-------------------------------------:               |---------------------------------------------:|
-|Thunder Warriors (Unity Game)     |https://github.com/BenJohnCarson/80sTD                |C#, Unity, Nunit                              |
+|Thunder Warriors (Unity Game)     |https://github.com/treborb/thunder-warriors                |C#, Unity, Nunit                              |
 |Atomic Wars (Atom plugin)         |https://github.com/BenJohnCarson/Atomic-Wars          |Javascript, CoffeeScript, Babel, Jasmine, Node|
 |Yello (Yelp Clone)                |https://github.com/BenJohnCarson/yello                |Rails, Ruby, Javascript, RSpec                |
 |InstaSham (Instagram Clone)       |https://github.com/BenJohnCarson/instagram-challenge  |Rails, Ruby, RSpec                            |
