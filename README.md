@@ -32,7 +32,7 @@ An intensive 16-week development course designed to turn anyone who's capable of
 - Focus on pair-programming
 - Agile
 - Software Craftsmanship
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - Ruby, Rails, JavaScript
 - Rspec, Jamsine
 - RESTful API
