@@ -50,7 +50,9 @@ An intensive 16-week development course designed to turn anyone who's capable of
 
 **Cognizant**
 *Programme Analyst- Full Stack*
-- Developed from scratch a proof of concept using Angular 4 and D3.js
+- Worked on the frontend of a large business to business website using Ember.js
+- Developed from scratch a proof of concept data driven web application using Angular 4 and D3.js
+- Created a custom API using Node.js and Express to execute python scripts
 
 **Milton Keynes Theatre**  
 *Front of House Supervisor*
