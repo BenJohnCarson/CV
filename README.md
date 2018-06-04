@@ -17,11 +17,11 @@ I'm a sponge. And I love absorb knowledge like a sponge absorbs water. This part
 
 #### Teamwork and Communication
 
-Despite what people may think, coding is very much a team activity, and luckily I've always been a good team player; from group presentations at University to organising and leading a front of house team. I've honed my communication skills by leading various training sessions and through resolving customer complaints face to face. While at Maker's, I've learnt the value of frequent and effective communication in a group project. Be it having the courage to give an honest code review, or just through regular morning standups.
+Despite what people may think, coding is very much a team activity, and luckily I've always been a good team player; from group presentations at University to organising and leading a front of house team. I've honed my communication skills by leading various training sessions and through resolving customer complaints face to face. While at Maker's and subsequently during my professional career, I've learnt the value of frequent and effective communication in a group project. Be it having the courage to give an honest code review, or just through regular morning standups.
 
 #### Knowledge Acquisition
 
-I am a very quick learner and I have a keen ability to separate the fluff from the learning objective. Until enrolling at Maker's academy, my coding was completely self taught and fuelled by a genuine interest. I came in with a (very) basic understanding of a number of web development technologies (HTML, CSS, JavaScript). After 12 weeks I can confidently say I can begin creating full stack web apps. I also feel like I'm armed with the tools to efficiently learn any tech that comes my way. An example of this would be our final project at Makers's. Without any previous experience my team managed to create a full game in Unity, writing C# scripts, in under two weeks.
+I am a very quick learner and I have a keen ability to separate the fluff from the learning objective. Until enrolling at Maker's academy, my coding was completely self taught and fuelled by a genuine interest. I came in with a (very) basic understanding of a number of web development technologies (HTML, CSS, JavaScript). After 12 weeks I was armed with the tools to begin creating full stack web apps and efficiently learn any tech that comes my way. An example of this would be our final project at Makers's. Without any previous experience my team managed to create a game in Unity, writing C# scripts, in under two weeks. Further to this, in the past year I've learnt from scratch two major web frameworks (Angular 4 and Ember.js). 
 
 #### Conscientious
 
