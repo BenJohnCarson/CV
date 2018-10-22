@@ -32,17 +32,6 @@ An intensive 16-week development course designed to turn anyone who's capable of
 - Rspec, Jamsine
 - RESTful API
 
-##### Projects
-
-|Project                           | Repository                                           | Technologies  and Languages                  |
-|----------------------------------|:-------------------------------------:               |---------------------------------------------:|
-|Thunder Warriors (Unity Game)     |[Thunder Warriors](https://github.com/treborb/thunder-warriors)                |C#, Unity, Nunit                              |
-|Atomic Wars (Atom plugin)         |[Atomic Wars](https://github.com/BenJohnCarson/Atomic-Wars)          |Javascript, CoffeeScript, Babel, Jasmine, Node|
-|Yello (Yelp Clone)                |[Yello](https://github.com/BenJohnCarson/yello)                |Rails, Ruby, Javascript, RSpec                |
-|InstaSham (Instagram Clone)       |[InstaSham](https://github.com/BenJohnCarson/instagram-challenge)  |Rails, Ruby, RSpec                            |
-|Makers BnB (Air BnB Clone)        |[Makers BnB](https://github.com/BenJohnCarson/makersbnb)            |Sinatra, Ruby, Javascript, JQuery, PostgreSQL  |
-|All projects repo                 |[All makers projects](https://github.com/BenJohnCarson/Makers-Academy)       |                                              |
-
 
 **Cisco CCNA Part 1**  
 *Learnt about different network types and media, the TCP/IP and OSI models and the fundamentals of routing and switching*
