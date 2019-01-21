@@ -42,8 +42,8 @@ An intensive 16-week development course designed to turn anyone who's capable of
 ## Experience
 
 **Cognizant**
-*Programme Analyst- Full Stack*
-- Worked on the frontend of a large business to business website using Ember.js
+*Associate- Full Stack*
+- Worked on the frontend of a large business to business website using Ember.js, creating features using scrum methodology with a focus on TDD, clean code and peer reviewed pull requests
 - Developed from scratch a proof of concept data driven web application using Angular 4 and D3.js
 - Created a custom API using Node.js and Express to execute python scripts
 
