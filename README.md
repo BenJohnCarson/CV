@@ -1,6 +1,6 @@
 ## Benjamin John Carson
 
-I'm a maker. I find great joy in working on projects where I get to both create and problem solve. I also have an insatiable thirst for knowledge that drives me to keep upto date on the very cutting edge of technology. In Jan 2017 I started Maker's Acadamey with a genuine interest in coding and enthusiasm to learn. Within 6 months I got my first role as a Programmer Analyst, primarily doing frontend work as part of an agile team on a large business website using Ember.js.My ambition is to move into a full stack role where I can continue to learn, create and problem solve in a team of like-minded people.
+I'm a maker. I find great joy in working on projects where I get to both create and problem solve. I also have an insatiable thirst for knowledge that drives me to keep upto date on the very cutting edge of technology. In Jan 2017 I started Maker's Acadamey with a genuine interest in coding and enthusiasm to learn. Within 6 months I got my first role as a Programmer Analyst, primarily doing frontend work as part of an agile team on a large business website using Ember.js. My ambition is to move into a full stack role where I can continue to learn, create and problem solve in a team of like-minded people.
 
 ## Qualities
 
