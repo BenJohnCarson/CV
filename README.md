@@ -8,11 +8,11 @@ Most importantly I'm conscientious, I care about my code, its quality, my collea
 
 **Whitbread**
 *Software Engineer, April 2019 - Present*
-- contributed to a plethora of site wide applications including legacy Angular.js monoliths to micro-frontend React.js apps
-- integral part of non-furloughed team to help plan, build, deliver and release a full website refresh of both the business and leisure journeys
-- worked closely with UX and product owners to refine and optimise features
-- analysed and translated ageing legacy applications into business logic and requirements
-- on-boarded and paired with a number of external consultants 
+- Contributed to a plethora of site wide applications including legacy Angular.js monoliths to micro-frontend React.js apps
+- Integral part of non-furloughed team to help plan, build, deliver and release a full website refresh of both the business and leisure journeys
+- Worked closely with UX and product owners to refine and optimise features
+- Analysed and translated ageing legacy applications into business logic and requirements
+- On-boarded and paired with a number of external consultants 
 
 **Cognizant**
 *Programme Analyst and Associate, May 2017 - Mar 2019*
@@ -33,12 +33,12 @@ Test-driven development (Jest, Cypress), Agile (SCRUM, Kanban), Pair-programming
 ## Portfolio
 
 **[Ready Steady Cocktail](https://github.com/BenJohnCarson/ready-steady-cocktail)**
-- web app born out of the desire to make cocktails with friends remotely
-- built with React, Gatsby and Firebase
-- allows multiple users to list and see shared ingredients in realtime
+- Web app born out of the desire to make cocktails with friends remotely
+- Built with React, Gatsby and Firebase
+- Allows multiple users to list and see shared ingredients in realtime
 
 **[Makers Academy Projects](https://github.com/BenJohnCarson/Makers-Academy)**
-- a multitude of solo and group projects completed while attending Makers Academy
+- A multitude of solo and group projects completed while attending Makers Academy
 
 ## Education
 
